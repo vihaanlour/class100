@@ -1,0 +1,15 @@
+#start-btn {
+  width: 40%;
+}
+#camera {
+  width: 360px;
+  height: 250px;
+  border: 1px solid grey;
+}
+#logoImage {
+  width: 150px;
+  border-radius: 100px;
+}
+#textBox {
+  width: 300px;
+}
